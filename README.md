@@ -12,5 +12,5 @@
 🔹 Verified deployment by accessing the website.  
 
 ## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+https://www.linkedin.com/feed/ 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mamtagour)  
