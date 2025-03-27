@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Mamta Gour!  
+🚀 Passionate about **DevOps, Java, and Cloud Technologies**  
 
-<!--
-**mamtagour1999/mamtagour1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning: **ELK Stack, Jenkins, and Docker**  
+💡 I love solving problems and building great projects.  
 
-Here are some ideas to get you started:
+## 🛠️ My DevOps Journey  
+🔹 Cloned my project repository from GitHub.  
+🔹 Configured Jenkins for automated deployment.  
+🔹 Created a Jenkins pipeline to build & deploy the app.  
+🔹 Hosted the application on a local server.  
+🔹 Verified deployment by accessing the website.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mamtagour)  
