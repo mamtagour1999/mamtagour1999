@@ -1,16 +1,11 @@
 # 👋 Hi, I'm Mamta Gour!  
-🚀 Passionate about **DevOps, Java, and Cloud Technologies**  
+🚀 **DevOps | Java- spring boot | Cloud Enthusiast**  
 
-🌱 Currently learning: **ELK Stack, Jenkins, and Docker**  
+🌱 Currently exploring **ELK Stack, Jenkins, Docker, k8s, Terraform, Ansible, python, shell-script**  
+⚡ Passionate about **automation & cloud technologies**  
 💡 I love solving problems and building great projects.  
 
-## 🛠️ My DevOps Journey  
-🔹 Cloned my project repository from GitHub.  
-🔹 Configured Jenkins for automated deployment.  
-🔹 Created a Jenkins pipeline to build & deploy the app.  
-🔹 Hosted the application on a local server.  
-🔹 Verified deployment by accessing the website.  
-
-## 🔗 Connect with me  
-https://www.linkedin.com/feed/ 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mamtagour)  
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/feed/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mamtagour1999)  
+[![DockerHub](https://img.shields.io/badge/DockerHub-blue?style=flat&logo=docker)](https://github.com/mamtagour1999)  
